@@ -23,6 +23,18 @@ Combine: Used for state management with @Published and @StateObject.
 
 Local Storage: Uses @Published variables for persisting data locally.
 
+🌟 Future Enhancements
+
+Here are some ideas for future development:
+
+Spending Analytics:Add charts to visualize spending patterns and income trends.
+
+Cloud Sync:Sync data across devices using CloudKit or Firebase.
+
+Dark Mode:Implement light and dark themes for better user adaptability.
+
+Currency Support:Add multi-currency support for international users.
+
 📂 Project Structure:
 
 The app is modularly structured for scalability and easy maintenance:
