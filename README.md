@@ -35,14 +35,7 @@ Dark Mode:Implement light and dark themes for better user adaptability.
 
 Currency Support:Add multi-currency support for international users.
 
-📂 Project Structure:
 
-The app is modularly structured for scalability and easy maintenance:
-DigitalWalletApp/
-├── Models/
-│   ├── Account.swift          # Account data model
-│   ├── Transaction.swift      # Transaction data model
-├── ViewModels/
 │   ├── WalletViewModel.swift  # Manages wallet accounts and transactions
 ├── Views/
 │   ├── MainView.swift         # Entry point with account list
