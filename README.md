@@ -35,9 +35,6 @@ Dark Mode:Implement light and dark themes for better user adaptability.
 
 Currency Support:Add multi-currency support for international users.
 
-
-│   ├── WalletViewModel.swift  # Manages wallet accounts and transactions
-├── Views/
 │   ├── MainView.swift         # Entry point with account list
 │   ├── WalletView.swift       # Displays account details
 │   ├── AddTransactionView.swift # Form for adding transactions
