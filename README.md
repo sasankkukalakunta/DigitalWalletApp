@@ -34,3 +34,9 @@ Cloud Sync:Sync data across devices using CloudKit or Firebase.
 Dark Mode:Implement light and dark themes for better user adaptability.
 
 Currency Support:Add multi-currency support for international users.
+
+ScreenShot:
+  <img src="https://github.com/sasankkukalakunta/DigitalWalletApp/blob/main/HomeScreen.png" width="200">
+  <img src="https://github.com/sasankkukalakunta/DigitalWalletApp/blob/main/PersonalwallerView.png" width="200">
+  <img src="https://github.com/sasankkukalakunta/DigitalWalletApp/blob/main/SavingAccountView.png" width="200">
+
