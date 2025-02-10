@@ -40,3 +40,4 @@ ScreenShot:
   <img src="https://github.com/sasankkukalakunta/DigitalWalletApp/blob/main/PersonalwallerView.png" width="200">
   <img src="https://github.com/sasankkukalakunta/DigitalWalletApp/blob/main/SavingAccountView.png" width="200">
 
+HomeScreen,Personalwalletview,SavingAccountview
