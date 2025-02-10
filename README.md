@@ -34,9 +34,3 @@ Cloud Sync:Sync data across devices using CloudKit or Firebase.
 Dark Mode:Implement light and dark themes for better user adaptability.
 
 Currency Support:Add multi-currency support for international users.
-
-│   ├── MainView.swift         # Entry point with account list
-│   ├── WalletView.swift       # Displays account details
-│   ├── AddTransactionView.swift # Form for adding transactions
-│   ├── TransactionListView.swift # Displays transactions for an account
-├── DigitalWalletApp.swift     # App entry point
